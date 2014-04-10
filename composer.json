@@ -1,6 +1,9 @@
 {
 	"name": "m4tthumphrey/fractal-laravel",
 	"description": "Laravel bindings for the Fractal library.",
+	"type": "library",
+	"keywords": ["fractal", "laravel"],
+	"license": "MIT",
 	"homepage": "https://github.com/m4tthumphrey/fractal-laravel",
 	"authors": [
 		{
