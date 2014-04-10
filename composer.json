@@ -1,0 +1,23 @@
+{
+	"name": "m4tthumphrey/fractal-laravel",
+	"description": "Laravel bindings for the Fractal library.",
+	"homepage": "https://github.com/m4tthumphrey/fractal-laravel",
+	"authors": [
+		{
+			"name": "Matt Humphrey",
+			"email": "matt@m4tt.co",
+			"homepage": "http://m4tt.io",
+			"role": "Lead Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.3.0",
+		"illuminate/support": "4.1.*",
+		"league/fractal": "0.7.*"
+	},
+	"autoload": {
+		"psr-0": {
+			"m4tthumphrey\\FractalLaravel\\": "src/"
+		}
+	}
+}
